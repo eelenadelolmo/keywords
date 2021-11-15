@@ -1,0 +1,10 @@
+.idea
+venv/bin/*
+venv/include/*
+venv/share/*
+venv/src/*
+venv/lib/*
+venv/lib64
+venv/main/__pycache__/*
+venv/pyvenv.cfg
+en_core_web_lg-2.3.1.tar.gz
